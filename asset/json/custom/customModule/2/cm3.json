@@ -1,0 +1,15 @@
+{
+    "attrs": {
+        "face": {
+            "varType": 1,
+            "value": "asset/image/picture/characters/XiaXin.png",
+            "copy": false
+        },
+        "intro": {
+            "varType": 1,
+            "value": "呢個係由Rinnnnn Studio開發嘅人工智能，净係推出占卜專用版，屬弱人工智能，無自我意志，數據係透過模型訓練得嚟，認準正版，小心假冒。",
+            "copy": false
+        }
+    },
+    "id": 3
+}
